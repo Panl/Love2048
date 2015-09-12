@@ -1,7 +1,7 @@
 # Game2048
 ### 颜值很高的2048小游戏
 ####软件截图
-![Love2048](https://github.com/Panl/Love2048/blob/master/screenshot/love2048.jpg)
+<img src="/screenshot/love2048.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 
 **知识点**
 - 自定义View
