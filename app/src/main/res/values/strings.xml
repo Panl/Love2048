@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Love2048</string>
+    <string name="action_about">about</string>
+    <string name="current_score">CurrentScore: 0</string>
+    <string name="best_score">BestScore: 31244</string>
+    <string name="love2048">2048</string>
+    <string name="action_share">share</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="introduce_and_help">介绍和策略</string>
+    <string name="developers">开发者</string>
+    <string name="github">我的Github: https://github.com/Panl</string>
+    <string name="open_source">用到的开源库</string>
+    <string name="open_source_libraries_list">butterknife:7.0.1\nsystembartint:1.0.3</string>
+    <string name="introduce">Love2048其实就是曾经风靡一时的2048小游戏，操作简单，却有着神奇的吸引力。\n\n\n 如何才能完成2048(小tips)\n尽量将最大的数字放在边角处，相邻的位置数字依次减小，构造成等比数列…</string>
+    <string name="share_text">发现了一款颜值极高的2048App「Love2048」! 推荐~: http://fir.im/Love2048</string>
+    <string name="image_saved">图片已保存</string>
+    <string name="image_save_failed">图片保存失败</string>
+</resources>
