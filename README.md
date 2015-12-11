@@ -3,7 +3,7 @@
 ####软件截图
 <img src="/screenshot/love2048.jpg" alt="screenshot" title="screenshot" width="270" height="486" />
 
-####下载地址 [Love2048](http://fir.im/Love2048)
+- **下载地址** [Love2048](http://fir.im/Love2048)
 
 **知识点**
 - 自定义View
